@@ -1,7 +1,7 @@
 - 👋  Hi, I’m @charlytron
-- 👀  I’m interested in coding, violinmaking and bicycling
+- 👀  I’m interested in code, violins, books and bikes
 - 🌱  I’m currently learning React-Native and Nest JS, and I would like to learn more about containerization
-- 💞️  I’m looking to collaborate on ...
+- 💞️  I’m looking to collaborate on whatever
 - 📫  How to reach me ... ctompkins@pm.me
 
 <!---
