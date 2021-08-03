@@ -1,4 +1,4 @@
-- 👋  @charlytron, saying hello.
+- 👋  @charlytron says hi.
 - 👀  I'm interested in code, violins, books and bikes;
 - 🌱  React-Native and Nest JS projects going on, and I would like to learn more about Docker and Kubernetes.
 - 💞️  I’m looking to collaborate on JS, React projects.
