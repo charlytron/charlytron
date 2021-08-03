@@ -1,8 +1,8 @@
-- 👋  @charlytron here.
-- 👀  I’m interested in code, violins, books and bikes.
-- 🌱  I’m currently learning React-Native and Nest JS, and I would like to learn more about containerization.
+- 👋  @charlytron here,
+- 👀  I'm interested in code, violins, books and bikes;
+- 🌱  currently learning React-Native and Nest JS, and I would like to learn more about containerization.
 - 💞️  I’m looking to collaborate on JS, React projects.
-- 📫  How to reach me ... ctompkins@pm.me.
+- 📫  ctompkins@pm.me.
 
 <!---
 charlytron/charlytron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
