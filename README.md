@@ -1,6 +1,6 @@
-- 👋  @charlytron here,
+- 👋  @charlytron, saying hello.
 - 👀  I'm interested in code, violins, books and bikes;
-- 🌱  currently learning React-Native and Nest JS, and I would like to learn more about containerization.
+- 🌱  React-Native and Nest JS projects going on, and I would like to learn more about Docker and Kubernetes.
 - 💞️  I’m looking to collaborate on JS, React projects.
 - 📫  ctompkins@pm.me.
 
