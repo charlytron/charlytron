@@ -1,5 +1,5 @@
 - 👋  @charlytron
-- interested in code, violins, books and bikes
+- code, violins, books and bikes (in that order).
 - working on React-Native and Nest JS projects and learning Docker and Kubernetes.
 - will collaborate on JS, React projects.
 - 📫  ctompkins@pm.me.
