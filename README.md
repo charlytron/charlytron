@@ -7,7 +7,7 @@
   - Working on Nest JS projects <br />
   - Continuing advanced Javascript coursework <br />
   - Continuing Docker, Kubernetes and IAAS coursework <br />
-  - Will collaborate on React projects <br />
+  - Will collaborate on React projects <br /><br />
   - ctompkins@pm.me
  </p> 
  </p>
