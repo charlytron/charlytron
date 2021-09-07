@@ -5,7 +5,7 @@
  </p>
  <p align="center">
   - Working on Nest JS projects <br />
-  - Continuing advanced Javascript coursework <br />
+  - Continuously learning Javascript <br />
   - Continuing Docker, Kubernetes and IAAS coursework <br />
   - Will collaborate on React projects <br /><br />
   - ctompkins@pm.me
