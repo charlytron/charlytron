@@ -5,7 +5,7 @@
  </p>
  <p align="center">
   - Building Nest JS projects <br />
-  - Completing advanced javascript coursework <br />
+  - Completing advanced JavaScript coursework <br />
   - Will collaborate on React projects <br /><br />
   - ctompkins@pm.me
  </p> 
