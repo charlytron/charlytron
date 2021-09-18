@@ -1,14 +1,15 @@
 
 
 <p align="center">
-  <img src="https://www.dropbox.com/s/vydupnyenu65s5d/ezgif.com-gif-maker.gif?raw=1" alt="charlytron's custom image" style="float: left; margin-right: 10px/>
+  <img src="https://www.dropbox.com/s/vydupnyenu65s5d/ezgif.com-gif-maker.gif?raw=1" alt="charlytron's custom image"/>
  </p>
- <p align="center">
+ <p align="center" style="color:salmon">
   - Building NestJS projects <br />
   - Completing advanced JavaScript coursework <br />
   - Will collaborate on React projects <br /><br />
   - ctompkins@pm.me
- </p> 
+  
+ </p>
  </p>
  
 
