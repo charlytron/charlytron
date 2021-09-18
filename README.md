@@ -1,5 +1,5 @@
 <h3 align="center">
- <em>if (code == art && art == work) {so may these be coerced}</em>
+ <em>if (code == art && art == work) {so may it be coerced}</em>
 </h3>
  <p align="center">
  <img src="https://www.dropbox.com/s/vydupnyenu65s5d/ezgif.com-gif-maker.gif?raw=1" alt="charlytron's custom image"/>
