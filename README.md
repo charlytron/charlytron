@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://www.dropbox.com/s/vydupnyenu65s5d/ezgif.com-gif-maker.gif?raw=1" alt="charlytron's custom image"/>
+  <img src="https://www.dropbox.com/s/vydupnyenu65s5d/ezgif.com-gif-maker.gif?raw=1" alt="charlytron's custom image" style="float: left; margin-right: 10px/>
  </p>
  <p align="center">
   - Building NestJS projects <br />
