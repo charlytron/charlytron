@@ -1,16 +1,27 @@
 
-
 <p align="center">
+ 
   <img src="https://www.dropbox.com/s/vydupnyenu65s5d/ezgif.com-gif-maker.gif?raw=1" alt="charlytron's custom image"/>
- </p>
+</p>
+  
+ <div align="center">
+
+| Projects   |     Language     |  Progress |
+|----------|:-------------:|------:|
+| Adv Javascript Concepts|  JavaScript | 25% |
+| Used Car Evaluator |    Nest   |   50% |
+| Fibonacci Calculator | JS-Docker-K8s |  100% |
+
+</div>
+<!-- </p>
  <p align="center" style="color:salmon">
   - Building NestJS projects <br />
   - Completing advanced JavaScript coursework <br />
   - Will collaborate on React projects <br /><br />
   - ctompkins@pm.me
   
- </p>
- </p>
+ </p>-->
+ 
  
 
 <!---
