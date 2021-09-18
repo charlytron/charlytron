@@ -1,5 +1,6 @@
-<p align="center">
-</p>
+<h3 align="center">
+ if (code == art && art == work) {somehow it will all coerce}
+</h3>
  <p align="center">
  <img src="https://www.dropbox.com/s/vydupnyenu65s5d/ezgif.com-gif-maker.gif?raw=1" alt="charlytron's custom image"/>
 </p>
