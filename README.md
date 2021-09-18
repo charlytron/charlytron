@@ -1,7 +1,8 @@
 
 
 <p align="center">
-  <img src="https://www.dropbox.com/s/ypqiyc1d05r02da/Screen%20Shot%202021-09-06%20at%206.51.40%20PM.jpg?raw=1" alt="charlytron's custom image"/>
+  https://www.dropbox.com/s/vydupnyenu65s5d/ezgif.com-gif-maker.gif?raw=1
+  <img src="https://www.dropbox.com/s/vydupnyenu65s5d/ezgif.com-gif-maker.gif?raw=1" alt="charlytron's custom image"/>
  </p>
  <p align="center">
   - Building NestJS projects <br />
