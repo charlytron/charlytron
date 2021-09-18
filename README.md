@@ -1,7 +1,6 @@
 
 
 <p align="center">
-  https://www.dropbox.com/s/vydupnyenu65s5d/ezgif.com-gif-maker.gif?raw=1
   <img src="https://www.dropbox.com/s/vydupnyenu65s5d/ezgif.com-gif-maker.gif?raw=1" alt="charlytron's custom image"/>
  </p>
  <p align="center">
