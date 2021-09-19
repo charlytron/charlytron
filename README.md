@@ -1,9 +1,9 @@
 <div align="center">
   <table><tr><td>  
- <em>if (code == art && art == work)<br />
+ <em>if (code == art  &&  art == work)<br />
   </tr></td>
    <tr><td>
-  {console.log("it's all coerced")}</em>
+  {console.log("it's all been coerced")}</em>
    </tr></td>
    </table>
 </div><br />
