@@ -1,7 +1,12 @@
-<h3 align="center">
+<div align="center">
+  <table><tr><td>  
  <em>if (code == art && art == work)<br />
+  </tr></td>
+   <tr><td>
   {console.log("we've been coerced")}</em>
-</h3><br />
+   </tr></td>
+   </table>
+</div><br />
  <div align="center" border="5px solid red">
  <table><tr><td>     
 <img src="https://user-images.githubusercontent.com/4887640/133912224-dcf8f361-3a8c-470e-9040-93477b05b4a6.gif"/>
