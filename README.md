@@ -3,7 +3,7 @@
  <em>if (code == art && art == work)<br />
   </tr></td>
    <tr><td>
-  {console.log("we've been coerced")}</em>
+  {console.log("it's all coerced")}</em>
    </tr></td>
    </table>
 </div><br />
