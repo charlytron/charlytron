@@ -3,9 +3,10 @@
   {console.log("we've been coerced")}</em>
 </h3><br />
  <p align="center">
- 
- 
- <img src="https://www.dropbox.com/s/vydupnyenu65s5d/ezgif.com-gif-maker.gif?raw=1" alt="charlytron's custom image"/>
+<!-- <img src="https://www.dropbox.com/s/vydupnyenu65s5d/ezgif.com-gif-maker.gif?raw=1" alt="charlytron's custom image"/>-->
+      
+ <img src="https://user-images.githubusercontent.com/4887640/133912224-dcf8f361-3a8c-470e-9040-93477b05b4a6.gif" />
+
 </p>
   
  <div align="center">
