@@ -7,7 +7,7 @@
         </tr>
         <tr>
             <td>
-                {console.log("it's been coerced")}</em>
+                {console.log("is all coerced?")}</em>
             </td>
         </tr>
     </table>
