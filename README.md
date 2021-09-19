@@ -2,12 +2,7 @@
     <table>
         <tr>
             <td>
-                <em>if (code == art  &&  art == work)<br />
-            </td>
-        </tr>
-        <tr>
-            <td>
-                {console.log("is all coerced?")}</em>
+                <em>An Ever-Developing Developer</em><br />
             </td>
         </tr>
     </table>
@@ -34,9 +29,4 @@
   
 </div>
 
- 
 
-<!---
-charlytron/charlytron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
