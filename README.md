@@ -1,4 +1,5 @@
 <kbd>
+    <div align="center>
 <div align="center">
     <table>
         <tr>
@@ -29,5 +30,6 @@
  |----------|:-------------:|
   
 </div>
+</div>                  
 </kbd>
 
