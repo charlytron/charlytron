@@ -5,7 +5,7 @@
     <table>
         <tr>
             <td>
-                <em>ever-developing developer-in-training</em><br />
+                <em>ever-developing developer</em><br />
             </td>
         </tr>
     </table>
