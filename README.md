@@ -1,6 +1,6 @@
 <h3 align="center">
  <em>if (code == art && art == work)<br />
-  {console.log('we've been coerced')}</em>
+  {console.log("we've been coerced")}</em>
 </h3><br />
  <p align="center">
  
