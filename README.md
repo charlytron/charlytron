@@ -5,7 +5,7 @@
     <table>
         <tr>
             <td>
-                <em>An Ever-Developing Developer</em><br />
+                <em>Ever-Developing Developer</em><br />
             </td>
         </tr>
     </table>
