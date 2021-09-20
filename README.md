@@ -5,7 +5,7 @@
     <table>
         <tr>
             <td>
-                <em>RE: Building Bridges</em><br />
+                <em>RE: Progress</em><br />
             </td>
         </tr>
     </table>
@@ -22,7 +22,7 @@
 </div>
 <div align="center">
 
-| Projects   |    Languages     |  Progress |
+| Projects   |    Languages     |  Status |
 |----------|:-------------:|------:|
 | Advanced Javascript Concepts|  JS, TS | 31% |
 | Used Car Evaluator |    Nest   |   50% |
