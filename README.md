@@ -5,7 +5,7 @@
     <table>
         <tr>
             <td>
-                <em>ever-developing developer</em><br />
+                <em>Woodshed in Cyberspace!</em><br />
             </td>
         </tr>
     </table>
