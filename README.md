@@ -22,7 +22,7 @@
 </div>
 <div align="center">
 
-| Projects   |     Materials     |  Progress |
+| Projects   |    Languages     |  Progress |
 |----------|:-------------:|------:|
 | Advanced Javascript Concepts|  JS, TS | 31% |
 | Used Car Evaluator |    Nest   |   50% |
