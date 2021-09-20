@@ -5,7 +5,7 @@
     <table>
         <tr>
             <td>
-                <em>RE: Building Bridges in Cyberspace</em><br />
+                <em>RE: Building Bridges</em><br />
             </td>
         </tr>
     </table>
