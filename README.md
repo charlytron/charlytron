@@ -5,7 +5,7 @@
     <table>
         <tr>
             <td>
-                <em>The Woodshed</em><br />
+                <em>Hi!</em><br />
             </td>
         </tr>
     </table>
