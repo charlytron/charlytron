@@ -15,7 +15,7 @@
         <tr>
             <td>
                 <!--<img src="https://user-images.githubusercontent.com/4887640/133912224-dcf8f361-3a8c-470e-9040-93477b05b4a6.gif" width="210px" />-->
-                <img src="https://user-images.githubusercontent.com/4887640/134088264-37491b5d-d851-4b2e-94f1-58647f75fcb5.GIF" />
+                <img src="https://user-images.githubusercontent.com/4887640/134088264-37491b5d-d851-4b2e-94f1-58647f75fcb5.GIF" height="300px"/>
            </td>
         </tr>
     </table>
