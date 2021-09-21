@@ -5,7 +5,7 @@
     <table>
         <tr>
             <td>
-                <em>RE: Progress</em><br />
+                <img src="https://img.shields.io/badge/Today's Language-JavaScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a"/><br />
             </td>
         </tr>
     </table>
