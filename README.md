@@ -5,7 +5,7 @@
     <table>
         <tr>
             <td>
-                <img src="https://img.shields.io/badge/Now Playing-JavaScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a"/><br />
+                <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg" /><br />
             </td>
         </tr>
     </table>
