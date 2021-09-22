@@ -1,6 +1,9 @@
 <div align="center">
+<kbd>
+<div align="center">
  <kbd>
-    <div align="center">
+  <div align="center">
+   <div align="center">
   <div align="center">
       <table>
           <tr>
@@ -34,13 +37,15 @@
 
   </div>
   </div> 
-
+  </div>
  </kbd>
 </div><br />
 <div align="center">
  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlytron&theme=city_lights" width="200px"/>
  
+ </div>
+ </kbd>
  </div>
  
 
