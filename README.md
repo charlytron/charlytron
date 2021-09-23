@@ -43,8 +43,7 @@
 <div align="center">
  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlytron&theme=city_lights" width="200px"/>
- <img src="https://user-images.githubusercontent.com/4887640/134555295-690b90fd-6cc4-4290-b888-b95cd464900c.png"
-height="190px"/>
+ 
 
  </div>
  <div align="center">
