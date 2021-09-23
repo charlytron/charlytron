@@ -8,7 +8,7 @@
       <table>
           <tr>
               <td>
-                  <img src="https://img.shields.io/badge/Langue du Jour-Javascript-informational?style=flat&logo=Javascript&logoColor=yellow&color=2bbc8a" />
+                  <img src="https://img.shields.io/badge/Language-Javascript-informational?style=flat&logo=Javascript&logoColor=yellow&color=2bbc8a" />
                   <br />
               </td>
           </tr>
