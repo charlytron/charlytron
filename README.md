@@ -42,7 +42,7 @@
 </div><br />
 <div align="center">
  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlytron&theme=city_lights" width="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlytron&theme=city_lights" width="200px" padding="50px"/>
  
 
  </div>
