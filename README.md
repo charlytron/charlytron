@@ -6,7 +6,7 @@
    <div align="center">
   <div align="center">
       <table>
-          <tr>
+          <tr style="color:salmon;">
               <td>
                   <img src="https://img.shields.io/badge/Language-Javascript-informational?style=flat&logo=Javascript&logoColor=yellow&color=2bbc8a" />
                   <br />
