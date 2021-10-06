@@ -28,7 +28,7 @@
 
   | Projects   |    Languages     |  Status |
   |----------|:-------------:|------:|
-  | Advanced Javascript Concepts|  JS, TS | 50% |
+  | Advanced Javascript Concepts|  JS, TS | 52% |
   | Used Car Evaluator |    NestJS   |   50% |
   | Fibonacci Calculator | JS-Docker-K8s |  100% |
 
