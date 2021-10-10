@@ -29,7 +29,7 @@
   | Projects   |    Languages     |  Status |
   |----------|:-------------:|------:|
   | Advanced Javascript Concepts|  JS, TS | 54% |
-  | Used Car Evaluator |    NestJS   |   50% |
+  | Used Car Evaluator |    NestJS   |   55% |
   | Fibonacci Calculator | JS-Docker-K8s |  100% |
 
    | Contact: | ctompkins@pm.me |
