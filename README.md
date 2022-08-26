@@ -28,9 +28,9 @@
 
   | Projects   |    Languages     |  Status |
   |----------|:-------------:|------:|
-  | Advanced Javascript Concepts|  JS, TS | 100% |
-  | Used Car Evaluator |    NestJS   |   55% |
-  | Fibonacci Calculator | JS-Docker-K8s |  100% |
+  | Bash Mastery |  Bash, Sed. Awk | 57% |
+  | Complete Python|    Python   |   10% |
+  | Trello Clone | Typescript |  100% |
 
    | Contact: | ctompkins@pm.me |
    |----------|:-------------:|
