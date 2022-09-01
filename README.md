@@ -28,7 +28,7 @@
 
   | Projects   |    Languages     |  Status |
   |----------|:-------------:|------:|
-  | Bash Mastery |  Bash, Sed. Awk | 57% |
+  | Bash Mastery |  Bash, Sed. Awk | 65% |
   | Complete Python|    Python   |   19% |
   | Trello Clone | Typescript |  100% |
 
