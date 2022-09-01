@@ -29,7 +29,7 @@
   | Projects   |    Languages     |  Status |
   |----------|:-------------:|------:|
   | Bash Mastery |  Bash, Sed. Awk | 57% |
-  | Complete Python|    Python   |   15% |
+  | Complete Python|    Python   |   19% |
   | Trello Clone | Typescript |  100% |
 
    | Contact: | ctompkins@pm.me |
